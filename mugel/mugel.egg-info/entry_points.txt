@@ -1,0 +1,2 @@
+[console_scripts]
+mugl = mugel.mugel:analyze_file
