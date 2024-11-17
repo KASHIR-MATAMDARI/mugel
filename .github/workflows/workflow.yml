@@ -1,11 +1,11 @@
-name: Python package
+name: Mugel
 
 on: [push, pull_request]
 
 jobs:
   build:
 
-    runs-on: ubuntu-latest, windows, macOS
+    runs-on: ubuntu-latest, windows
 
     steps:
     - name: Check out repository
