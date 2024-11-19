@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: mugel
+Version: 0.1.0
+Summary: A reverse engineering tool
+Home-page: https://github.com/KASHIR-MATAMDARI/mugel.git
+Author: yodoski123
+Author-email: valleyislamicnetwork@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: GPL v2.0
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: pefile
+Requires-Dist: capstone
+Requires-Dist: matplotlib
+
 Mugel is a python module made for reverse engineering!!! Here is some mugel syntax!!!:
 ```python
 import mugel as mugl
